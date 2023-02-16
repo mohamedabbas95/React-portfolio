@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/http//mohamedabbas95.github.io/React-portfolio/static/css/main.59ca3ac3.css",
+    "main.js": "/http//mohamedabbas95.github.io/React-portfolio/static/js/main.ffaf15e4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/http//mohamedabbas95.github.io/React-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/banner-bg.png": "/http//mohamedabbas95.github.io/React-portfolio/static/media/banner-bg.a419f6be69880b806f79.png",
+    "static/media/color-sharp.png": "/http//mohamedabbas95.github.io/React-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/http//mohamedabbas95.github.io/React-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/CentraNo2-Bold.ttf": "/http//mohamedabbas95.github.io/React-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/http//mohamedabbas95.github.io/React-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/http//mohamedabbas95.github.io/React-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/http//mohamedabbas95.github.io/React-portfolio/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/footer-bg.png": "/http//mohamedabbas95.github.io/React-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/http//mohamedabbas95.github.io/React-portfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/http//mohamedabbas95.github.io/React-portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/revicons.eot": "/http//mohamedabbas95.github.io/React-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/http//mohamedabbas95.github.io/React-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/header-img.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/header-img.50f5e0b9ebca25e3ce9380e26f5c7c32.svg",
+    "static/media/revicons.woff": "/http//mohamedabbas95.github.io/React-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/contact-img.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/contact-img.f6ea8ee9d8a6d0b86bbf0ec0d0e1cdcd.svg",
+    "static/media/meter2.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon3.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/nav-icon3.e7e2bc8e3b94958f09a23ee8a5aaae7a.svg",
+    "index.html": "/http//mohamedabbas95.github.io/React-portfolio/index.html",
+    "static/media/nav-icon1.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/http//mohamedabbas95.github.io/React-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.59ca3ac3.css.map": "/http//mohamedabbas95.github.io/React-portfolio/static/css/main.59ca3ac3.css.map",
+    "main.ffaf15e4.js.map": "/http//mohamedabbas95.github.io/React-portfolio/static/js/main.ffaf15e4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/http//mohamedabbas95.github.io/React-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ca3ac3.css",
+    "static/js/main.ffaf15e4.js"
+  ]
+}
